@@ -1,4 +1,4 @@
-# [Bokkers2_ver3](https://github.com/ryhara/Bookers2_ver3)
+# [Bookers2_ver3](https://github.com/ryhara/Bookers2_ver3)
 **本の感想投稿 + いいね、コメント機能の非同期通信化 + 検索機能 + フォロー/フォロワー機能**
 
 - 本のタイトルと感想を投稿、閲覧、編集、削除が可能
